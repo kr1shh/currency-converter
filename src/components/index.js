@@ -1,3 +1,3 @@
-import AmountInput from "./AmountInput";
+import AmountInput from "./AmountInput"
 
 export {  AmountInput };
